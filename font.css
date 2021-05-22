@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Bodoni*';
+    src: url('./variable/BodoniModa[opsz,wght].ttf') format('truetype');
+    font-style: normal;
+    font-weight: 400 900;
+}
+
+@font-face {
+    font-family: 'Bodoni*';
+    src: url('./variable/BodoniModa-Italic[opsz,wght].ttf') format('truetype');
+    font-style: italic;
+    font-weight: 400 900;
+}
